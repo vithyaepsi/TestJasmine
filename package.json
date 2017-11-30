@@ -1,0 +1,23 @@
+{
+  "name": "TestJasmine",
+  "version": "1.0.0",
+  "description": "### Instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corneadoug/TestJasmine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corneadoug/TestJasmine/issues"
+  },
+  "homepage": "https://github.com/corneadoug/TestJasmine#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
