@@ -5,7 +5,7 @@
 **
 ** La fonction renvoie le resultat du calcul
 **
-** La fonction renvoie -1 en cas d'erreur
+** La fonction renvoie null en cas d'erreur
 */
 function calculatrice(signe, gauche, droite) {
 
