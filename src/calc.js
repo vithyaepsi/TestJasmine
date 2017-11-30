@@ -8,7 +8,7 @@
 ** La fonction renvoie -1 en cas d'erreur
 */
 function calculatrice(signe, gauche, droite) {
-
+    var result = null;
 
     return result;
 }
